@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Screens</string>
-    <string name="switch_screen">Switch screen!</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="return_text">Return</string>
+    <string name="main_text">Go back</string>
+    <string name="main_button">:)</string>
 </resources>

@@ -16,11 +16,12 @@ public class SecondActivity extends AppCompatActivity {
 
         setContentView(R.layout.activity_second);
 
-        Button button = findViewById(R.id.switchscreen);
-        button.setOnClickListener(new View.OnClickListener() {
+        Button open = findViewById(R.id.open);
+        open.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Log.d("YTA", "Activity starts.");
+                Log.d("SECONDYTA", "Activity starts.");
+
                 Intent myIntent = new Intent(SecondActivity.this, MainActivity.class);
                 startActivity(myIntent);
             }
