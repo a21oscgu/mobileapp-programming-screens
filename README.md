@@ -3,7 +3,7 @@
 
 # Assignment 4: Activities & Intents
 
-**Den här appen är forkad från LenaSYS/mobileapp-programming-screens. Appen har två activities, <i>MainActivity</i> och <i>SecondActivity. SecondActivity</i> är satt som start activity (launcher) och liknar en login-activity. I <i>SecondActivity</i> finns det en knapp <i>"Open"</i> som leder användaren till <i>MainActivity</i>. Ifall användaren klickar på knappen kommer en sträng <i>":)"</i> att skickas till <i>MainActivity</i>. Strängen tas emot och visas upp i en TextView ovanför knappen. I <i>MainActivity</i> finns det en knapp <i>"Close"</i> som leder användaren tillbaks till <i>SecondActivity</i>.**
+**Den här appen är forkad från LenaSYS/mobileapp-programming-screens. Appen har två activities, <i>MainActivity</i> och <i>SecondActivity. SecondActivity</i> är satt som start activity (launcher) och liknar en login-activity. I <i>SecondActivity</i> finns det en knapp <i>"Open"</i> som leder användaren till <i>MainActivity</i>. I <i>MainActivity</i> finns det en knapp <i>"Close"</i> som leder användaren tillbaks till <i>SecondActivity</i>. Ifall användaren klickar på knappen kommer en sträng <i>":)"</i> att skickas till <i>MainActivity</i>. Strängen tas emot av <i>MainActivity</i> och visas upp i en TextView ovanför knappen <i>"Close"</i>.**
 
 **Denna kodsnutt visar knappen <i>"Open"</i> som har skapats i <i>SecondActivity</i>:**
 
