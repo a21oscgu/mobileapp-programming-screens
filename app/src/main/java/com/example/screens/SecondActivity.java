@@ -23,6 +23,7 @@ public class SecondActivity extends AppCompatActivity {
                 Log.d("SECONDYTA", "Activity starts.");
 
                 Intent myIntent = new Intent(SecondActivity.this, MainActivity.class);
+                myIntent.putExtra("name", ":)");
                 startActivity(myIntent);
             }
         });
