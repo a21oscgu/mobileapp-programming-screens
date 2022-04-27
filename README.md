@@ -23,11 +23,11 @@
 
 **Detta skärmklipp visar  i appen:**
 
-<img src="/Screenshot_20220427_160615.png" width="60%">
+<img src="/Screenshot_20220427_160615.png" width="40%">
 
 **Detta skärmklipp visar  i appen:**
 
-<img src="/Screenshot_20220427_160656.png" width="30%">
+<img src="/Screenshot_20220427_160656.png" width="40%">
 
 
 **Skriv din rapport här!**
